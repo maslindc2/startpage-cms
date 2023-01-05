@@ -9,8 +9,10 @@ router.get("/", (ctx) => {
     const randomIndex = Math.floor(Math.random() * (urls.length));
 
     const randomUrl = urls[randomIndex];
-    
-    ctx.response.body = JSON.stringify(randomUrl);
+    const responseData = {
+        gif:{randomUrl},
+    }
+    ctx.response.body = JSON.stringify(responseData);
 });
 
 const app = new Application();
