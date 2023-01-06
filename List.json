@@ -1,0 +1,104 @@
+{
+  "Background": {
+    "URL": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Background/bg.jpg"
+  },
+  "Bookmarks": {
+    "link1": {
+      "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/Gmail.svg",
+      "URL": "https://www.gmail.com/"
+    },
+    "link2": {
+      "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/Outlook.svg",
+      "URL": "https://outlook.office.com/mail/inbox"
+    },
+    "link3": {
+      "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/Ads-b.png",
+      "URL": "https://globe.adsbexchange.com/"
+    },
+    "link4": {
+      "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/Reddit.svg",
+      "URL": "https://reddit.com"
+    },
+    "link5": {
+      "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/Netflix.svg",
+      "URL": "https://netflix.com"
+    },
+    "link6": {
+      "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/Twitch.svg",
+      "URL": "https://twitch.tv/"
+    },
+    "link7": {
+      "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/Crunchyroll.svg",
+      "URL": "https://9anime.to/"
+    },
+    "link8": {
+      "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/YouTube.svg",
+      "URL": "https://www.youtube.com/feed/subscriptions"
+    },
+    "link9": {
+      "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/Indeed.svg",
+      "URL": "https://www.indeed.com/"
+    },
+    "link10": {
+      "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/LinkedIn.svg",
+      "URL": "https://www.linkedin.com/jobs/"
+    },
+    "link11": {
+      "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/Neetcode.svg",
+      "URL": "https://neetcode.io/"
+    },
+    "link12": {
+      "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/LeetCode.svg",
+      "URL": "https://leetcode.com/problemset/all/"
+    },
+    "link13": {
+      "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/Gfg.svg",
+      "URL": "https://www.geeksforgeeks.org/"
+    },
+    "link14": {
+      "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/Github.svg",
+      "URL": "https://github.com/maslindc2?tab=repositories"
+    },
+    "link15": {
+      "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/ChatGPT.png",
+      "URL": "https://chat.openai.com/chat"
+    },
+    "link16": {
+      "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/Handbook.svg",
+      "URL": "https://www.techinterviewhandbook.org/software-engineering-interview-guide/"
+    }
+  },
+  "SearchProviders": {
+    "!yt": {
+      "Name": "YouTube",
+      "URL": "https://www.youtube.com/results?search_query="
+    },
+    "!wk": {
+      "Name": "Wikipedia",
+      "URL": "https://en.wikipedia.org/wiki/"
+    },
+    "!am": {
+      "Name": "Amazon",
+      "URL": "https://www.amazon.com/s?k="
+    },
+    "!r": {
+      "Name": "Reddit",
+      "URL": "https://www.reddit.com/search/?q="
+    },
+    "!g": {
+      "Name": "Search",
+      "URL": "https://www.google.com/search?q="
+    },
+    "!dc": {
+      "Name": "Discogs",
+      "URL": "https://www.discogs.com/search/?q="
+    }
+  },
+  "BongoGif": {
+    "url1:": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/BongoGif/bongo1.gif",
+    "url2:": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/BongoGif/bongo2.gif",
+    "url3:": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/BongoGif/bongo3.gif",
+    "url4:": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/BongoGif/bongo4.gif",
+    "url5:": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/BongoGif/bongo5.gif"
+  }
+}
