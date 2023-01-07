@@ -1,7 +1,4 @@
 {
-  "Background": {
-    "URL": "Github raw was faster than I thought"
-  },
   "Bookmarks": {
     "Bookmark1":{
       "link1": {
@@ -96,6 +93,10 @@
     "!dc": {
       "Name": "Discogs",
       "URL": "https://www.discogs.com/search/?q="
+    },
+    "!eb":{
+      "Name": "Ebay",
+      "URL": "https://www.ebay.com/sch/i.html?_nkw="
     }
   },
   "BongoGif": {
@@ -103,6 +104,7 @@
     "gif2:": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/BongoGif/bongo2.gif",
     "gif3:": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/BongoGif/bongo3.gif",
     "gif4:": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/BongoGif/bongo4.gif",
-    "gif5:": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/BongoGif/bongo5.gif"
+    "gif5:": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/BongoGif/bongo5.gif",
+    "gif6:": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/BongoGif/bongo6.gif"
   }
 }
