@@ -1,0 +1,110 @@
+{
+  "Bookmarks": {
+    "Bookmark1": [
+      {
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/Gmail.svg",
+        "URL": "https://www.gmail.com/"
+      },
+      {
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/Outlook.svg",
+        "URL": "https://outlook.office.com/mail/inbox"
+      },
+      {
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/Ads-b.png",
+        "URL": "https://globe.adsbexchange.com/"
+      },
+      {
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/Reddit.svg",
+        "URL": "https://reddit.com"
+      },
+      {
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/Netflix.svg",
+        "URL": "https://netflix.com"
+      },
+      {
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/Twitch.svg",
+        "URL": "https://twitch.tv/"
+      },
+      {
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/Crunchyroll.svg",
+        "URL": "https://9anime.to/"
+      },
+      {
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/YouTube.svg",
+        "URL": "https://www.youtube.com/feed/subscriptions"
+      }
+    ],
+    "Bookmark2": [
+      {
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/Indeed.svg",
+        "URL": "https://www.indeed.com/"
+      },
+      {
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/LinkedIn.svg",
+        "URL": "https://www.linkedin.com/jobs/"
+      },
+      {
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/Neetcode.svg",
+        "URL": "https://neetcode.io/"
+      },
+      {
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/LeetCode.svg",
+        "URL": "https://leetcode.com/problemset/all/"
+      },
+      {
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/Gfg.svg",
+        "URL": "https://www.geeksforgeeks.org/"
+      },
+      {
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/Github.svg",
+        "URL": "https://github.com/maslindc2?tab=repositories"
+      },
+      {
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/ChatGPT.png",
+        "URL": "https://chat.openai.com/chat"
+      },
+      {
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/Handbook.svg",
+        "URL": "https://www.techinterviewhandbook.org/software-engineering-interview-guide/"
+      }
+    ]
+  },
+  "SearchProviders": {
+    "!yt": {
+      "Name": "YouTube",
+      "URL": "https://www.youtube.com/results?search_query="
+    },
+    "!wk": {
+      "Name": "Wikipedia",
+      "URL": "https://en.wikipedia.org/wiki/"
+    },
+    "!am": {
+      "Name": "Amazon",
+      "URL": "https://www.amazon.com/s?k="
+    },
+    "!r": {
+      "Name": "Reddit",
+      "URL": "https://www.reddit.com/search/?q="
+    },
+    "!g": {
+      "Name": "Search",
+      "URL": "https://www.google.com/search?q="
+    },
+    "!dc": {
+      "Name": "Discogs",
+      "URL": "https://www.discogs.com/search/?q="
+    },
+    "!eb": {
+      "Name": "Ebay",
+      "URL": "https://www.ebay.com/sch/i.html?_nkw="
+    }
+  },
+  "BongoGif": {
+    "gif1:": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/BongoGif/bongo1.gif",
+    "gif2:": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/BongoGif/bongo2.gif",
+    "gif3:": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/BongoGif/bongo3.gif",
+    "gif4:": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/BongoGif/bongo4.gif",
+    "gif5:": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/BongoGif/bongo5.gif",
+    "gif6:": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/BongoGif/bongo6.gif"
+  }
+}
