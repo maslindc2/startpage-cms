@@ -2,69 +2,69 @@
   "Bookmarks": {
     "Bookmark1": [
       {
-        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/Gmail.svg",
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/gmail.png",
         "URL": "https://www.gmail.com/"
       },
       {
-        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/Outlook.svg",
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/outlook.png",
         "URL": "https://outlook.office.com/mail/inbox"
       },
       {
-        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/Ads-b.png",
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/ads-b.png",
         "URL": "https://globe.adsbexchange.com/"
       },
       {
-        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/Reddit.svg",
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/reddit.png",
         "URL": "https://reddit.com"
       },
       {
-        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/Netflix.svg",
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/netflix.png",
         "URL": "https://netflix.com"
       },
       {
-        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/Twitch.svg",
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/twitch.png",
         "URL": "https://twitch.tv/"
       },
       {
-        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/Crunchyroll.svg",
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/crunchyroll.png",
         "URL": "https://9anime.to/"
       },
       {
-        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/YouTube.svg",
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/youtube.png",
         "URL": "https://www.youtube.com/feed/subscriptions"
       }
     ],
     "Bookmark2": [
       {
-        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/Indeed.svg",
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/indeed.png",
         "URL": "https://www.indeed.com/"
       },
       {
-        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/LinkedIn.svg",
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/linkedin.png",
         "URL": "https://www.linkedin.com/jobs/"
       },
       {
-        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/Neetcode.png",
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/neetcode.png",
         "URL": "https://neetcode.io/"
       },
       {
-        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/LeetCode.svg",
-        "URL": "https://leetcode.com/problemset/all/"
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/drive.png",
+        "URL": "https://drive.google.com/drive/u/0/my-drive"
       },
       {
-        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/Gfg.svg",
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/gfg.png",
         "URL": "https://www.geeksforgeeks.org/"
       },
       {
-        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/Github.svg",
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/github.png",
         "URL": "https://github.com/maslindc2?tab=repositories"
       },
       {
-        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/ChatGPT.png",
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/chatgpt.png",
         "URL": "https://chat.openai.com/chat"
       },
       {
-        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/Handbook.svg",
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/handbook.png",
         "URL": "https://www.techinterviewhandbook.org/software-engineering-interview-guide/"
       }
     ]
