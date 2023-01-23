@@ -97,6 +97,10 @@
     "!eb": {
       "Name": "Ebay",
       "URL": "https://www.ebay.com/sch/i.html?_nkw="
+    },
+    "!hs":{
+      "Name": "HifiShark",
+      "URL": "https://www.hifishark.com/search?q="
     }
   },
   "BongoGif": {
