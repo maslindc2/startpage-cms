@@ -2,69 +2,69 @@
   "Bookmarks": {
     "Bookmark1": [
       {
-        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/gmail.png",
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/gmail.webp",
         "URL": "https://www.gmail.com/"
       },
       {
-        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/outlook.png",
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/outlook.webp",
         "URL": "https://outlook.office.com/mail/inbox"
       },
       {
-        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/ads-b.png",
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/ads-b.webp",
         "URL": "https://globe.adsbexchange.com/"
       },
       {
-        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/reddit.png",
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/reddit.webp",
         "URL": "https://reddit.com"
       },
       {
-        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/netflix.png",
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/netflix.webp",
         "URL": "https://netflix.com"
       },
       {
-        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/twitch.png",
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/twitch.webp",
         "URL": "https://twitch.tv/"
       },
       {
-        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/crunchyroll.png",
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/crunchyroll.webp",
         "URL": "https://9anime.to/"
       },
       {
-        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/youtube.png",
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/youtube.webp",
         "URL": "https://www.youtube.com/feed/subscriptions"
       }
     ],
     "Bookmark2": [
       {
-        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/indeed.png",
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/indeed.webp",
         "URL": "https://www.indeed.com/"
       },
       {
-        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/linkedin.png",
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/linkedin.webp",
         "URL": "https://www.linkedin.com/jobs/"
       },
       {
-        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/neetcode.png",
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/neetcode.webp",
         "URL": "https://neetcode.io/"
       },
       {
-        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/drive.png",
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/drive.webp",
         "URL": "https://drive.google.com/drive/u/0/my-drive"
       },
       {
-        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/gfg.png",
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/gfg.webp",
         "URL": "https://www.geeksforgeeks.org/"
       },
       {
-        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/github.png",
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/github.webp",
         "URL": "https://github.com/maslindc2?tab=repositories"
       },
       {
-        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/chatgpt.png",
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/chatgpt.webp",
         "URL": "https://chat.openai.com/chat"
       },
       {
-        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/writer.png",
+        "Icon": "https://raw.githubusercontent.com/maslindc2/startpage-cms/main/Icons/writer.webp",
         "URL": "https://app.writer.com/organization/250188/team/256667"
       }
     ]
